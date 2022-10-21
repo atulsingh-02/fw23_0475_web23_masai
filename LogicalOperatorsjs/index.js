@@ -1,0 +1,1 @@
+3 > 5 && 8 > 5 ? console.log("Yes") : console.log("no")
